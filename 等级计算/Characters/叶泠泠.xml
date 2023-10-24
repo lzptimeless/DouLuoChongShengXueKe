@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CharacterConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <InitDate>2631-09-01T00:00:00</InitDate>
+  <InitAge>6</InitAge>
+  <InitLevel>8</InitLevel>
+  <InitCongenitalPower>8</InitCongenitalPower>
+  <InitEffort>0.8</InitEffort>
+  <Levels>
+    <CharacterConfigLevel Level="10" SoulCircle="400" ExLevel="0" Effort="0" CongenitalPower="0" />
+    <CharacterConfigLevel Level="20" SoulCircle="700" ExLevel="0" Effort="0" CongenitalPower="0" />
+    <CharacterConfigLevel Level="25" SoulCircle="0" ExLevel="0" Effort="0.9" CongenitalPower="0" />
+    <CharacterConfigLevel Level="29" SoulCircle="0" ExLevel="0" Effort="1" CongenitalPower="0" />
+    <CharacterConfigLevel Level="30" SoulCircle="3500" ExLevel="0" Effort="0" CongenitalPower="0" />
+    <CharacterConfigLevel Level="40" SoulCircle="6800" ExLevel="0" Effort="0" CongenitalPower="0" />
+    <CharacterConfigLevel Level="50" SoulCircle="13800" ExLevel="0" Effort="0" CongenitalPower="0" />
+    <CharacterConfigLevel Level="60" SoulCircle="20000" ExLevel="0" Effort="0" CongenitalPower="0" />
+    <CharacterConfigLevel Level="70" SoulCircle="45000" ExLevel="0" Effort="0" CongenitalPower="0" />
+    <CharacterConfigLevel Level="80" SoulCircle="60000" ExLevel="0" Effort="0" CongenitalPower="0" />
+  </Levels>
+</CharacterConfig>
