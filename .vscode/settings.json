@@ -9,5 +9,6 @@
         "editor.wrappingIndent": "none",
         "editor.autoIndent": "none",
         "editor.wordWrap": "bounded"
-    }
+    },
+    "editor.fontFamily": "Sarasa Fixed SC, Consolas, 'Courier New', monospace"
 }
