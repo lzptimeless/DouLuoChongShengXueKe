@@ -4,7 +4,7 @@
   <InitAge>0</InitAge>
   <InitLevel>0</InitLevel>
   <InitCongenitalPower>11</InitCongenitalPower>
-  <InitEffort>3</InitEffort>
+  <InitEffort>2</InitEffort>
   <Levels>
     <CharacterConfigLevel Level="10" SoulCircle="400" ExLevel="0" Effort="0" CongenitalPower="0" />
     <CharacterConfigLevel Level="20" SoulCircle="700" ExLevel="0" Effort="0" CongenitalPower="0" />

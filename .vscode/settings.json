@@ -10,5 +10,9 @@
         "editor.autoIndent": "none",
         "editor.wordWrap": "bounded"
     },
+    "[markdown]": {
+        "editor.wordWrap": "wordWrapColumn",
+        "editor.wordWrapColumn": 120
+    },
     "editor.fontFamily": "Sarasa Fixed SC, Consolas, 'Courier New', monospace"
 }
