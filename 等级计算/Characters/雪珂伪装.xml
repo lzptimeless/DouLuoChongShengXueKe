@@ -10,7 +10,7 @@
     <CharacterConfigLevel Level="20" SoulCircle="2700" ExLevel="0" Effort="0" CongenitalPower="0" />
     <CharacterConfigLevel Level="30" SoulCircle="4000" ExLevel="0" Effort="0" CongenitalPower="0" />
     <CharacterConfigLevel Level="40" SoulCircle="7500" ExLevel="0" Effort="0" CongenitalPower="0" />
-    <CharacterConfigLevel Level="50" SoulCircle="15000" ExLevel="0" Effort="0" CongenitalPower="0" />
+    <CharacterConfigLevel Level="50" SoulCircle="15000" ExLevel="0" Effort="100" CongenitalPower="0" />
     <CharacterConfigLevel Level="60" SoulCircle="20000" ExLevel="0" Effort="0" CongenitalPower="0" />
     <CharacterConfigLevel Level="70" SoulCircle="45000" ExLevel="0" Effort="0" CongenitalPower="0" />
     <CharacterConfigLevel Level="80" SoulCircle="60000" ExLevel="0" Effort="0" CongenitalPower="0" />

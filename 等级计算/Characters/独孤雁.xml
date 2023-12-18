@@ -8,7 +8,7 @@
   <Levels>
     <CharacterConfigLevel Level="10" SoulCircle="400" ExLevel="0" Effort="0" CongenitalPower="0" />
     <CharacterConfigLevel Level="20" SoulCircle="650" ExLevel="0" Effort="0" CongenitalPower="0" />
-    <CharacterConfigLevel Level="24" SoulCircle="0" ExLevel="0" Effort="0.9" CongenitalPower="0" />
+    <CharacterConfigLevel Level="24" SoulCircle="0" ExLevel="0" Effort="0.8" CongenitalPower="0" />
     <CharacterConfigLevel Level="25" SoulCircle="0" ExLevel="5" Effort="0" CongenitalPower="10" />
     <CharacterConfigLevel Level="30" SoulCircle="1700" ExLevel="1" Effort="0" CongenitalPower="0" />
     <CharacterConfigLevel Level="40" SoulCircle="7000" ExLevel="0" Effort="0" CongenitalPower="0" />
